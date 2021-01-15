@@ -1,5 +1,5 @@
-=Fancy Project v0.0.0.0.0.4.2.1 11 May 2018
-Written May 1 - 18, 2018, by Carl, Osman, and Claire
+Fancy Game
+Written May 1 - 18, 2018, by Carl Lerdorf, Osman Wong, and Claire Chen
 
 8th period team 1: The One and Only Spooky Fancy 100% Balanced,100% Legit, Not a Scam, Free Trade, Quality Certified Guarantee Meme Team led by Three Smart Bois
 
@@ -33,23 +33,6 @@ by shooting enemies, obstacles, and for staying alive. The game's difficulty inc
 that there will be more obstacles and enemies the longer you stay alive for. Hitting Boosts and PowerUps can restore HP 
 to the player. If you die, press F to restart the game (and pay respects).
 
-Classes:
-
-ShooterGame.java contains the logic and mechanics for the game.
-ShooterGraphics.java draws the objects in the game, and handles everything graphics-related.
-KeyboardInput.java has the codes for commonly used keys; it makes getting key inputs easier.
-GameWindow.java contains the main method; run it to open the game.
-Shooter.java represents a shooter object; that is, something that can move around and fire projectiles.
-	- Player.java represents the character the user plays as. It is a shooter.
-	- Enemy.java represents an enemy, which shoots down at the player. It is also a shooter.
-Projectile.java represents something that's a projectile. It is used to represent the bullets which the user and enemies shoot.
-Obstacle.java represents obstacles, which destroy the player if they come into contact. There are 3 different kinds of obstacles, which are all represented by this class.
-Boost.java represents things which give the player extra health points if they are hit.
-PowerUp.java is similar to Boost.java, but introduces other kinds of power-ups as well.
-SidePanel.java represents a panel in the frame, which displays the player's score and the current game difficulty.
-Explosion.java is for drawing an explosion gif; its job here is to make things easier when we handle things getting blown up.
-ProgressBar.java represents a progress bar (OH REALLY?! HOW DID YOU KNOW?!!) which can be used to display remaining health points.
-
 Resources:
 
 Image sources: codepen.io, Google.
@@ -59,8 +42,3 @@ Inspiration from Bullethead, Space Invaders, Asteroids.
 Thanks Mr. Taylor for random suggestions, tolerating our spam, and providing gifs.
 Visual VM used for profiling.
 
-Responsibilities:
-
-CARL: Worked on events, actions, explosions, renders (the player and enemy images) and keyboard inputs, as well as working on game mechanics/logic. A lot of debugging as well. Profiling in order to find methods to optimize in order to remove the sources of lag.
-CLAIRE: Graphics and menu/UI. Made the different screens (start, instructions, difficulty). Made a lot for UI and put things together into this monstrosity of a final project here.
-OSMAN: Created the original "base" structure for the game-mechanics and rules. Made Power-Ups. Made the fancy rainbow background. Combined different versions.
