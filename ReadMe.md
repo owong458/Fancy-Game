@@ -33,6 +33,8 @@ by shooting enemies, obstacles, and for staying alive. The game's difficulty inc
 that there will be more obstacles and enemies the longer you stay alive for. Hitting Boosts and PowerUps can restore HP 
 to the player. If you die, press F to restart the game (and pay respects).
 
+![Screen Shot 2021-01-14 at 10 25 50 PM](https://user-images.githubusercontent.com/50178083/104689542-8aa4eb80-56b7-11eb-9fea-bc40ede84174.png)
+
 Resources:
 
 Image sources: codepen.io, Google.
