@@ -1,7 +1,9 @@
 Fancy Game
+
 Written May 1 - 18, 2018, by Carl Lerdorf, Osman Wong, and Claire Chen
 
 8th period team 1: The One and Only Spooky Fancy 100% Balanced,100% Legit, Not a Scam, Free Trade, Quality Certified Guarantee Meme Team led by Three Smart Bois
+
 
 Introduction:
 
@@ -19,6 +21,8 @@ The player could also die if it is hit by an enemy's bullet.
 The player destroys enemies by hitting them . 
 Enemies regenerate over time, with the sole purpose of infuriating the player. 
 
+![Screen Shot 2021-01-14 at 10 25 50 PM](https://user-images.githubusercontent.com/50178083/104689542-8aa4eb80-56b7-11eb-9fea-bc40ede84174.png)
+
 Instructions:
 
 Run GameWindow.java to open the game. Press S to start immediately, or press i to see the instructions first.
@@ -33,14 +37,17 @@ by shooting enemies, obstacles, and for staying alive. The game's difficulty inc
 that there will be more obstacles and enemies the longer you stay alive for. Hitting Boosts and PowerUps can restore HP 
 to the player. If you die, press F to restart the game (and pay respects).
 
-![Screen Shot 2021-01-14 at 10 25 50 PM](https://user-images.githubusercontent.com/50178083/104689542-8aa4eb80-56b7-11eb-9fea-bc40ede84174.png)
-
 Resources:
 
 Image sources: codepen.io, Google.
+
 Art made using Krita and MS Paint (when Krita broke).
+
 Ships made using blender and fusion.
+
 Inspiration from Bullethead, Space Invaders, Asteroids.
+
 Thanks Mr. Taylor for random suggestions, tolerating our spam, and providing gifs.
+
 Visual VM used for profiling.
 
