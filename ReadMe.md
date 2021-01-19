@@ -21,6 +21,8 @@ The player could also die if it is hit by an enemy's bullet.
 The player destroys enemies by hitting them . 
 Enemies regenerate over time, with the sole purpose of infuriating the player. 
 
+<img width="630" alt="Screen Shot 2021-01-18 at 10 02 35 PM" src="https://user-images.githubusercontent.com/50178083/104994553-863f4200-59d9-11eb-8b7a-84104e188b24.png">
+
 ![Screen Shot 2021-01-14 at 10 25 50 PM](https://user-images.githubusercontent.com/50178083/104689542-8aa4eb80-56b7-11eb-9fea-bc40ede84174.png)
 
 Instructions:
